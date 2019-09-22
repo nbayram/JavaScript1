@@ -11,6 +11,9 @@ In this module you'll make a start into wonderful world of programming. We will 
 
 You'll be learning two main things:
 
+
+
+
 1. Fundamental concepts in programming
    While we're using JavaScript to illustrate these concepts, it's important to keep in mind that what you will learn is applicable to **any** programming language. They might differ in syntax (a fancy term for the arrangement of words in a language in order for it to make sense), but the functionality will be the same: a loop will always be a loop.
 
